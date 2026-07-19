@@ -5,10 +5,7 @@ import pandas as pd
 
 def calculate_sum(a,b):
     x = 100
-    unused_variable = "hello"
-
-    result=a+b
-    return result
+    # unused_variable = "hello"  // Comment out or remove this line to fix.
 
 
 class userData:
