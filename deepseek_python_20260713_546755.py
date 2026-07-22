@@ -3,12 +3,7 @@ import sys
 import pandas as pd
 
 
-def calculate_sum(a,b):
-    x = 100
-     unused_variable = "hello"  
-
-
-class userData:
+# Removed unused variableclass userData:
     def __init__(self,name):
         self.Name=name
 
